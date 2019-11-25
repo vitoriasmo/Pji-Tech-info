@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pji trabalho</title>
+        <link rel="stylesheet" href="Usu.css">
+    </head>
+
+    <body>
+            <style>
+                        div.a {
+                 
+                 text-align: center;
+                }
+                    </style>
+                    <div class = "a">
+        <div class="dados">
+            <img class="perfil" src="img/desenho-de-rosto-de-menino-bonito_18591-41511.jpg" alt="">
+            
+            <h1>USUÁRIO </h1>
+            <img src="/Lucas.jpg" width="280">
+            <h2>Lucas Faria Da Silva</h2>
+            
+            <p><b>Dados Pessoais </b></p>
+            <p> <b>Integrantes na Familia:</b> 33</p>
+           <p><b>Código da Familia:</b> 17toria</p>
+            <p><b>Classificção:</b> Administrador </p>
+            <p><b>Email:</b> Lucasdwg@gmail.com</p>
+           <p><b>Data Nascimento:</b> 05/08/1986</p>
+            <p><b>Celular:</b> (11) 9778-5547</p>
+            <p><b>Parentesco:</b> Pai</p>
+            <p><b>Idade:</b> 33 </p>
+        
+            
+       
+                
+
+
+
+        </div>
+    <body>
+<html>
+    
