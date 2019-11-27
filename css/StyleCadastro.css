@@ -1,7 +1,7 @@
 body{
   
   
-    background: url("fofa.jpg"); 
+     
     text-align: center;
     margin:10px;
     background: #4ab3c6;
@@ -93,6 +93,148 @@ body{
   }
   input[type="submit"]:hover{
     background: #4ab3c6;
+  }
+  
+  .perfil{
+    width: 50%;
+    
+}
+.dados{
+    position:relative;
+    padding: 20px;
+    width: 350px;
+    height: 560px;
+    float: left;
+    font-size: 20px;
+    margin-top:16px!important;
+    margin-left:16px;
+    margin-inline-end: 20px;
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    background: #4ab3c6;
+}
+
+.barra{
+    color:#000!important;
+    background-color:#f1f1f1!important;
+    border-radius:16px;
+    font-size:12px!important;
+    width: 100%;
+    
+    
+}
+.tarefasConcluidas,.tarefasNaoConcluidas,.tarefasEmEspera{
+    padding:0.01em 16px;
+    color:#000!important;
+    text-align: center;
+    background-color:#dd26b5!important;
+    color:#fff!important;
+    border-radius:16px;
+    font-size: 16px;
+    
+}
+
+.tarefasConcluidas{
+    background-color:#0cf53f!important;
+    width: 40%;
+    background: #4ab3c6;
+}
+
+.tarefasNaoConcluidas{
+    background-color:#f50c0c!important;
+    width: 10%;
+}
+
+.tarefasEmEspera{
+    background-color:#0ca0f5!important;
+    width: 70%;
+}
+
+.tarefas{
+    position:relative;
+    box-sizing:content-box;
+    padding: 20px;
+    width: 850px;
+    height: 560px;
+    float: left;
+    font-size: 20px;
+    margin-top:16px!important;
+    margin-bottom:16px;
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    background: #4ab3c6;
+}
+body{
+    
+  background: url("limpeza.jpg"); 
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+  
+}
+
+.box h1{
+
+  color:white;
+text-transform: uppercase;
+font-weight: 300;
+font-size: 30px;
+}
+
+.box{
+  width: 300px;
+  padding: 40px;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  background: #191919;
+  text-align: center;
+  border-radius:23px;
+
+
+}
+
+.box input[type="text"],.box input[type="password"]{
+  border:0;
+  background:none;
+  display: block;
+  margin:20px auto;
+  text-align: center;
+  color:white;
+  border: 1.5px solid #2980b9;
+  padding:14px 10px;
+  width:200px;
+  outline:none;
+  transition: 0.30s;
+  font-size :14px;
+
+}
+.box input [type="text"]:focus,.box input[type="password"]:focus{
+  width: 200px;
+  border-color: aqua;
+
+}
+.box input [type="submit"]{
+  border:0;
+  background:none;
+  display: block;
+  margin:20px auto;
+  text-align: center;
+  color:white;
+  border: 1.5px solid #2980b9;
+  padding:14px 40px;
+  outline:none;
+  transition: 0.30s;
+  font-size :14px;
+  border-radius: 30px;
+  cursor:pointer;
+}
+.box input [type="submit"]:hover{
+  background: #27ae60;
+}
+ 
+ 
+  
+  d: #4ab3c6;
   }
   
   
