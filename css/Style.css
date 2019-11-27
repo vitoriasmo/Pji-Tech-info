@@ -231,7 +231,16 @@ font-size: 30px;
 .box input [type="submit"]:hover{
   background: #27ae60;
 }
- 
+ body{
+    
+    background: url("limpeza.jpg"); 
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+
  
   
  
