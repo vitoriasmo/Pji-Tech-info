@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Pji trabalho</title>
-        <link rel="stylesheet" href="Usu.css">
+        <link rel="stylesheet" href="Style.css">
     </head>
 
     <body>
@@ -15,14 +15,14 @@
                     </style>
                     <div class = "a">
         <div class="dados">
-            <img class="perfil" src="img/desenho-de-rosto-de-menino-bonito_18591-41511.jpg" alt="">
+            <img class="perfil" src="img/Lucas.jpg" alt="">
             
             <h1>USUÁRIO </h1>
             <img src="/Lucas.jpg" width="280">
             <h2>Lucas Faria Da Silva</h2>
             
             <p><b>Dados Pessoais </b></p>
-            <p> <b>Integrantes na Familia:</b> 33</p>
+            <p> <b>Integrantes na Familia:</b> 03</p>
            <p><b>Código da Familia:</b> 17toria</p>
             <p><b>Classificção:</b> Administrador </p>
             <p><b>Email:</b> Lucasdwg@gmail.com</p>
@@ -41,4 +41,3 @@
         </div>
     <body>
 <html>
-    
